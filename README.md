@@ -30,4 +30,3 @@ Save definitions to a file called definitions.txt
 > Based on your area of interest or major, identify and list ten specific instances of how databases are used.
 
 - Identify the type of database that these would be used in (relational, NoSQL). Save this list of uses and database types in a file called database_uses.txt.
-# Assignment-1
