@@ -33,5 +33,3 @@ Save definitions to a file called definitions.txt
 
 #### Deliverables
 [assign01.zip](https://github.com/rweston233/Assignment-1/blob/main/assign01.zip)
-
-<a id="assign01.zip-url" href="https://raw.githubusercontent.com/rweston233/My-Website/main/assign01.zip">Download FILE</a>
