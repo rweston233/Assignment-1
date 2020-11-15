@@ -3,6 +3,8 @@
 ## Assignment 1 Learning Objectives
 
 ### Part I
+> Getting familiar with MySQL
+
 - Use Workbench to show the SQL to create a table. Save this SQL in a file called thing_create.sql
 - Insert rows of data into the database using insert statements. Save these SQL insert queries into a single file called thing_insert.sql
 - Create a query to list all of the entities in the table and order them by one of the columns in descending order. Save this query to a file called thing_select_desc.sql.
