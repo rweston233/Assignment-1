@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+# Assignment 1 Repo
 
-You can use the [editor on GitHub](https://github.com/rweston233/Assignment-1/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+## Assignment 1 Learning Objectives
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Part I
+> Getting familiar with MySQL
 
-### Markdown
+- Use Workbench to show the SQL to create a table. Save this SQL in a file called thing_create.sql
+- Insert rows of data into the database using insert statements. Save these SQL insert queries into a single file called thing_insert.sql
+- Create a query to list all of the entities in the table and order them by one of the columns in descending order. Save this query to a file called thing_select_desc.sql.
+- Create a query to delete one unique row from the table. Save this query to a file called thing_delete.sql.
+- Identify columns with repeating data. Save the names of these columns in a file called thing_repeat.txt
+- Identify one or more columns that if used would present unique data that could be used to identify one and only one entity. Assume you had millions of rows, rather than just five rows. Save the names of the columns in a file called thing_keys.txt.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Part II
+> **Be able to define the following terms in your own words.**
 
-```markdown
-Syntax highlighted code block
+- Database Schema
+- DBMS
+- Primary key
+- Foreign key
+- Surrogate key
+- Entity integrity
+- Referential integrity
+- Weak entity
 
-# Header 1
-## Header 2
-### Header 3
+Save definitions to a file called definitions.txt
 
-- Bulleted
-- List
+### Part III
+> Based on your area of interest or major, identify and list ten specific instances of how databases are used.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rweston233/Assignment-1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Identify the type of database that these would be used in (relational, NoSQL). Save this list of uses and database types in a file called database_uses.txt.
