@@ -13,7 +13,7 @@
 - Identify one or more columns that if used would present unique data that could be used to identify one and only one entity. Assume you had millions of rows, rather than just five rows. Save the names of the columns in a file called `thing_keys.txt`.
 
 ### Part II
-> **Be able to define the following terms in your own words.**
+> Be able to define the following terms in your own words.
 
 - Database Schema
 - DBMS
